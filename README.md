@@ -33,7 +33,7 @@ In das Include Verzeichnis von AutoIt kopieren und als UDF einbinden, oder die F
 ## Author
 Thorsten Willert
 
-[Homepage](http://www.thorsten-willert.de/)
+[Homepage](https://www.thorsten-willert.de/software/autoit/autoit-funktionen/_csv2array)
 
 ## Lizenz
 Das ganze steht unter der [Apache 2.0](https://github.com/THWillert//__PlanMaker_SafePDF/blob/master/LICENSE) Lizenz
